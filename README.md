@@ -78,7 +78,7 @@ SSH key authentication is a quality of life feature that you can use to securely
 
 #### SSH config
 
-Setting up a SSH config lets you login to a host without typing in the host IP address, port, and username. Using the config above, you can login by using `ssh debian-rv64`
+Setting up a SSH config lets you login to a host without typing in the host IP address, port, and username. Using the config below, you can login by using `ssh debian-rv64`
 
 ```bash
 # Setup SSH config
