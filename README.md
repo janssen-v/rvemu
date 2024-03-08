@@ -87,7 +87,7 @@ Host debian-rv64
    HostName 127.0.0.1
    User student
    Port 2222
-" >> .ssh/config
+" >> ~/.ssh/config
 ```
 
 You can copy paste the above into your bash shell to add the SSH config.
