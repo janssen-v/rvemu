@@ -70,7 +70,7 @@ After the initial setup, you can start and stop with its assigned name
 ```bash
 # Setup SSH key authentication
 ssh-keygen
-ssh-copy-id -f -i ~/.ssh/id_rsa.pub student@localhost -p 2222
+ssh-copy-id -p 2222 -f -i ~/.ssh/id_rsa.pub student@localhost
 # When prompted for password, enter: ilovecs
 ```
 
